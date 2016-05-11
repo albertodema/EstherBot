@@ -1,7 +1,7 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Alberto, a Solution Architect from Nyon (Switzerland).\n![alberto](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/8/000/299/039/121892f.jpg)\nWant to know more about bots or learn about Alberto? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Alberto](postback:learn_about_alberto) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set AlbertoBot up! Do you want to tell Alberto that you're talking to his bot? %[Tell him](postback:twitter)",
-    "TELL HIM": "Let's tweet @ Alberto so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Alberto](http://bit.ly/1TaD5xl)",
+    "TELL HIM": "Let's tweet @ Alberto so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Alberto](http://bit.ly/1TaD5xl)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AlbertoBot is back."
