@@ -3,6 +3,7 @@
     "HELLO": "Hey, I'm so glad you set AlbertoBot up! Do you want to tell Alberto that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ Alberto so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Alberto](http://bit.ly/1TaD5xl)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "Learn about Alberto": "Hi if you want know more about me,first have a look at my blog: http://albertodema.wordpress.com/",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AlbertoBot is back."
 }
