@@ -1,9 +1,9 @@
 {
-    "HELLO": "Hi there!\nI’m the personal bot of Alberto, a Solution Architect from Nyon (Switzerland).\n![alberto](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/8/000/299/039/121892f.jpg)\nWant to know more about bots or learn about Alberto? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Alberto](postback:learn_about_alberto) %[One random fact!](postback:random_fact)",
-    "BOT": "Hey, I'm so glad you set AlbertoBot up! Do you want to tell Alberto that you're talking to his bot? %[Tell him](postback:twitter)",
-    "TELL HIM": "Let's tweet @ Alberto so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Alberto](http://bit.ly/1TaD5xl)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
-    "LEARN ABOUT ALBERTO": "Hi if you want know more about me,first have a look at my blog: http://albertodema.wordpress.com/",
+    "HELLO": "Hi there!\nI’m the personal bot of Alberto, a Solution Architect from Nyon (Switzerland).\n![alberto](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/8/000/299/039/121892f.jpg)\nWant to know more about bots or learn about Alberto?  %[Learn about Alberto](postback:learn_about_alberto) %[Why have you created this bot?](postback:why_bot)",
+    "WHY BOT": "Resumes are usually boring... I guess this is a way more funny to discover things about %[me](postback:hello)",
+    "I LOVE YOU": "Awh, shucks! I love you too! Do you want to know more about %[me](postback:hello)" ?",
+    "LEARN ABOUT ALBERTO": "Hi if you want know more about me,first have a look at my blog: http://albertodema.wordpress.com/ and/or simply click %[here](postback:here)",
+    "HERE": "",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AlbertoBot is back."
 }
