@@ -6,4 +6,6 @@
     "HERE": "Well where to start...\n Uhm probably we can start from my %[passions](postback:passions) or by my %[current job](postback:current_job)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AlbertoBot is back."
+"PASSIONS":"",
+"CURRENT_JOB":""
 }
