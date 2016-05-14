@@ -3,9 +3,9 @@
     "WHY THIS BOT": "Resumes are usually boring... I guess this is a way more funny to discover things about me click %[here](postback:here)",
     "I LOVE YOU": "Awh, shucks! I love you too! Do you want to know more about %[me](postback:hello) ?",
     "LEARN ABOUT ALBERTO": "Hi if you want know more about me,first have a look at my blog: http://albertodema.wordpress.com/ and/or simply click %[here](postback:here)",
-    "HERE": "Well where to start...\n Uhm probably we can start from my %[passions](postback:passions) or by my %[current job](postback:current_job)",
+    "HERE": "Well where to start...\n Uhm probably we can start from my %[passions](postback:passions) \n or by my %[current job](postback:current_job)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AlbertoBot is back.",
-"PASSIONS":"",
-"CURRENT_JOB":""
+"PASSIONS":"Write here passions",
+"CURRENT_JOB":"write here current"
 }
