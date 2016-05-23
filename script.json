@@ -6,6 +6,6 @@
     "HERE": "Well where to start...\n Uhm probably we can start from my %[passions](postback:passions) \n or by my %[current job](postback:current_job)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AlbertoBot is back.",
-"PASSIONS":"Write here passions",
-"CURRENT JOB":"write here current"
+"PASSIONS":"I love to code, to do hands on customizations, to hack into systems and combine different technologies together and I love to see my solutions/ideas became reality and used at large , nothing makes more happy than a user that ,after having the hands on something I designed/engineered/integrated/, says:finally!! It is what I need and I was waiting for that!! ",
+"CURRENT JOB":"I'm currently working as E2E solution architect ...wait more easily: in few words I'm actually doing the job that I love that is : find technology solutions to business needs. Every day a new challange , new combinations of solutions and integrations to satisfy business, fast delivery , security, compliance, scalability, interoperability, sustainability needs... "
 }
