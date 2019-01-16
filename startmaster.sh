@@ -6,7 +6,6 @@ rs=$myip$sp$DNS_LABEL
 cp /etc/hosts ~/hosts.new
 sed -i -e '1 s/^/'"$rs"'\n/' ~/hosts.new
 cp -f ~/hosts.new /etc/hosts
-
 # continue with spark
 chmod +x /master.sh
 /master.sh
